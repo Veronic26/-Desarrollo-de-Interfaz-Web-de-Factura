@@ -7,7 +7,7 @@ Este proyecto simula una factura o proforma con estructura HTML y estilos CSS en
 - styles.css: Archivo externo con estilos aplicados a cada sección para una apariencia profesional.
 
 ## Cómo usar
-1. Ejecutar el archivo Factura.html desde el gestor de archivo o desde visual studio code.
+- Ejecutar el archivo Factura.html desde el gestor de archivo o desde visual studio code.
 
 ## Características
 - Diseño responsivo y ordenado.
